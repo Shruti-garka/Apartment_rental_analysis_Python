@@ -8,3 +8,4 @@ German Rental Data: This dataset was obtained from https://www.kaggle.com/code/j
 The dataset includes information on property features, location, rental prices, and other relevant attributes.
 # Results
 The final Tableau storyboard can be found here: 
+https://public.tableau.com/app/profile/shruti.garka4509/viz/Rental_data_analysis/Story1?publish=yes
